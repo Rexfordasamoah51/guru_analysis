@@ -1,3 +1,3 @@
 # 1.0.0
 
-- Initial version.
+- Add `analysis_options` used by Guru guys
