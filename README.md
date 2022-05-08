@@ -1,6 +1,6 @@
 # Guru Analysis
 
-Developed with 💙 by the Guru team
+Developed with 😍 by the Guru team
 
 ---
 
